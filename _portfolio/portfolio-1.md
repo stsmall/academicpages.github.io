@@ -1,9 +1,8 @@
 ---
 title: "Wuchereria bancrofti"
-excerpt: "W.bancrofti, 50 genomes 1<br/><img src='/files/Figure_1_v2.pdf'>"
+excerpt: "W.bancrofti, 50 genomes <br/><img src='/files/Figure_1_v2.pdf'>"
 collection: portfolio
 ---
-
 Population genomics has only recently been integrated into studies of infectious diseases. This is because DNA from parasites can be hard to obtain and many epidemiologists are not trained in population genetics. In the last five years, I have strived to combined population genomics, epidemiology, and ecology to study the human parasite Wuchereria bancrofti. Wuchereria bancrofti (Wb) is a nematode causing Lymphatic filariasis, affecting over 120 million people in 73 countries with 1.39 billion people living in Wb endemic regions. 
 In 2011, we started with only a single gene on the mitochondrial genome, COI, to study population structure in communities infected with Wb parasites (Small et al. 2013). We combined our estimates of migration and population structure with survey data collected from the same communities. We concluded that high connectivity between communities would make it difficult to eliminate Wb, unless all communities were treated simultaneously. We also identified a single mitochondrial lineage (denoted as a single unique haplotype) that was present in 95% of all Wb infections.
 In 2015, after sequencing the whole mitochondrial genome of multiple Wb isolates (Ramesh et al. 2012), we used whole genome data from 15 individual Wb worms to publish the first population genomics study of Wb. This project used a larval stage of Wb that only occurs within mosquitoes; still we did not have enough DNA for traditional genome sequencing. We thus modified an available approach using Nextera chemistry (Illumina) and singe-cell whole genome amplification to perform genome sequencing (Small et al 2016).

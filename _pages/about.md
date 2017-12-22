@@ -20,4 +20,4 @@ lymphatic filariasis, specifically cases caused by the nematode Wuchereria bancr
 at CWRU we published the first population genomics study on W. bancrofti and, at the time, the only 
 population genomics study of any filarial nematode. My research has continued to integreate ecology 
 into hypotheses of genetic variation in populations of Nematodes and Mosquitoes. Recent work has 
-invovled integrating eDNA into community ecology of vector species. 
+involved integrating eDNA into community ecology of vector species. 
