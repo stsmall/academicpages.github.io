@@ -1,6 +1,6 @@
 ---
 title: "Wuchereria bancrofti"
-excerpt: "W.bancrofti, 50 genomes <br/><img src='/images/Figure_1_v2.png'>"
+excerpt: "W.bancrofti, 50 genomes <br/><img src='/images/wbfig2.jpg'>"
 collection: portfolio
 ---
 Population genomics has only recently been integrated into studies of infectious diseases. This is because DNA from parasites can be hard to obtain and many epidemiologists are not trained in population genetics. In the last five years, I have strived to combined population genomics, epidemiology, and ecology to study the human parasite Wuchereria bancrofti. Wuchereria bancrofti (Wb) is a nematode causing Lymphatic filariasis, affecting over 120 million people in 73 countries with 1.39 billion people living in Wb endemic regions. 
