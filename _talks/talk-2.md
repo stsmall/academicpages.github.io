@@ -4,6 +4,6 @@ collection: talks
 type: "Talk"
 permalink: /talks/talk-2
 venue: "Epidemiology and Biostatistics Presents"
-date: 2016-15-05
+date: 2016-05-15
 location: "Cleveland, OH"
 ---
