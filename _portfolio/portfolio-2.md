@@ -1,6 +1,6 @@
 ---
 title: "Mosquito Vectors"
-excerpt: "Chromosome Painting in Anopheles funestus <br/><img src='/_files/example.smoothed.stacked.pdf'>"
+excerpt: "Chromosome Painting in Anopheles funestus <br/><img src='/images/example.smoothed.stacked.pdf'>"
 collection: portfolio
 ---
 Next-generation sequencing (NGS) technology goes far beyond whole genome sequencing. For example, instead of sequencing multiple individual clones of a PCR amplicon using NGS we can now label each amplicon with a unique bar-code sequence and perform one sequencing experiment using new Illumina or PacBio technology. This allows for screening of many samples simultaneously while multiplexing multiple genetic amplicons (sometimes 100 of amplicons) all while saving money and labor.
