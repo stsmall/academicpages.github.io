@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/talk-1
 venue: "American Society of Tropical Medicine and Hygiene"
-date: 2016-05-11
+date: 2016-11-05
 location: "Atlanta, GA"
 ---
 
