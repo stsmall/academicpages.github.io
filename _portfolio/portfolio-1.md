@@ -1,6 +1,6 @@
 ---
 title: "Wuchereria bancrofti"
-excerpt: "Short description of portfolio item number 1<br/><img src='/files/Figure_1_v2.pdf'>"
+excerpt: "W.bancrofti, 50 genomes 1<br/><img src='/files/Figure_1_v2.pdf'>"
 collection: portfolio
 ---
 Wuchereria bancrofti
