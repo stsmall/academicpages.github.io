@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/talk-5
 venue: "American Society of Tropical Medicine and Hygiene"
-date: 2014-30-10
+date: 2014-10-30
 location: "New Orleans, LA"
 ---
 
