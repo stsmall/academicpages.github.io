@@ -10,7 +10,7 @@ redirect_from:
 
 My education background was initially in ecology where I was studying conservation of water
 and preservation of natural resources. After some years working in the field of ecology, I chose to
-attended graduate school at the University of Georgia (UGA) to train in population genetics under Dr. John Wares. It was at
+attended graduate school at the University of Georgia (UGA) to train in population genetics with Dr. John Wares. It was at
 this time that I took a course with then UGA faculty Dr. Pejman Rohani in modelling infectious
 diseases. It was during this course that I saw an opportunity to use my background in ecology and
 population genetics to work towards parameterizing models of infectious disease.
